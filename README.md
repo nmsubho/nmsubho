@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nmso2&theme=onedark&row=1&column=8)](https://github.com/nmso2/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nmso2&theme=onedark&row=1&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Subho's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmso2&theme=cobalt&show_icons=true)
