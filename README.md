@@ -33,9 +33,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmso2&layout=compact" />
 </div>
 
+<div>
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=nmso2&date_format=M%20j%5B%2C%20Y%5D&stroke=E4E2E2&ring=0969DA&currStreakLabel=7A54FF&fire=DD6602&sideNums=0969DA&sideLabels=7A54FF&dates=7A54FF&currStreakNum=0969DA&border=E4E2E2&background=DD272700" />
+</div>
 
 
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nmso2&date_format=M%20j%5B%2C%20Y%5D&stroke=E4E2E2&ring=0969DA&currStreakLabel=7A54FF&fire=DD6602&sideNums=0969DA&sideLabels=7A54FF&dates=7A54FF&currStreakNum=0969DA&border=E4E2E2&background=DD272700)](https://git.io/streak-stats)
+<!-- 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nmso2&date_format=M%20j%5B%2C%20Y%5D&stroke=E4E2E2&ring=0969DA&currStreakLabel=7A54FF&fire=DD6602&sideNums=0969DA&sideLabels=7A54FF&dates=7A54FF&currStreakNum=0969DA&border=E4E2E2&background=DD272700)](https://git.io/streak-stats) -->
