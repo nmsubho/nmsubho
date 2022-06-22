@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 ![Subho's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmso2&theme=cobalt&show_icons=true)
  -->
 
-<a href="https://github.com/nmso2/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<!-- <a href="https://github.com/nmso2/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/nmso2/github-profile-trophy">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=nmso2&column=8&theme=gruvbox&no-frame=true"/>
-</a>
+</a> -->
 
 ---
 
