@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nmso2&count_private=true&include_all_commits=true" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmso2&layout=compact" />
+  <img height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmso2&layout=compact" />
 </div>
 
 <div>
